@@ -27,7 +27,6 @@ Mon objectif est de combiner mon expérience métier, mes connaissances en infor
 - Vibe Coding & AI-assisted Development
 
 **💻 Développement informatique**
-- Python
 - HTML
 - CSS
 - JavaScript
@@ -35,7 +34,6 @@ Mon objectif est de combiner mon expérience métier, mes connaissances en infor
 
 **⚙️ Outils**
 - Fusion AI
-- Streamlit
 - ClickUp
 - Microsoft Office
 
