@@ -1,29 +1,100 @@
-Salut, je suis Hiba Raqbi 👋
+# 👋 Salut, moi c'est Hiba Raqbi !
 
-Gestionnaire en assurance | Développement informatique | Automation AI & Agentic AI 📍 Casablanca, Maroc
+### 🛡️ Gestionnaire en assurance | 💻 Développement informatique | 🤖 Agentic AI & Automation
 
-🧭 À propos de moi
-🛡️ Professionnelle de la gestion en assurance : traitement et suivi des dossiers, gestion des données, tâches administratives.
-💻 Formée en développement informatique (OFPPT) et en sciences de gestion (F.S.J.E.S Aïn Chock).
-🤖 Je me forme actuellement à l'Automation AI et à l'Agentic AI dans le cadre du programme Génération IA & IoT Maroc.
-🎯 Mon objectif : évoluer dans le domaine de l'intelligence artificielle en combinant mon expérience en gestion avec ma passion pour les nouvelles technologies.
-🛠️ Compétences
+📍 Casablanca, Maroc
 
-Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image
+---
 
-IA & Automatisation : Automation AI, Agentic AI, LangGraph (en cours d'apprentissage) Web : HTML, CSS, JavaScript, GitHub Outils : ClickUp, Word, Excel, PowerPoint Métier : Gestion de dossiers d'assurance, rédaction administrative, facturation des dossiers
+## 🧭 À propos de moi
 
-🌱 En ce moment
-Spécialisation Automation AI & Agentic AI : Génération IA & IoT Maroc
-Exploration de LangGraph pour construire des agents IA
-Je prépare mes premiers projets d'agents et d'automatisation à publier ici
-🎓 Parcours
-🎓 Spécialisation Automation AI et Agentic AI : Génération IA & IoT Maroc (en cours)
-🎓 Licence fondamentale en sciences de gestion : F.S.J.E.S Aïn Chock (2019 – 2022)
-🎓 Formation qualifiante en développement d'application web : OFPPT (2019 – 2020)
-🎓 Technicien spécialisé en développement informatique : OFPPT (2017 – 2019)
-📫 Me contacter
-✉️ hibaraqbi146@gmail.com
-🌍 Langues : Arabe (langue maternelle), Français, Anglais (intermédiaire)
+Professionnelle de la gestion en assurance avec près de 4 ans d'expérience dans le traitement et le suivi des dossiers, la gestion des données et la coordination administrative.
 
-⭐ Merci de votre visite !
+Titulaire d'une formation en développement informatique (OFPPT) et d'une Licence fondamentale en sciences de gestion (FSJES Aïn Chock), je développe actuellement mes compétences en **Automation AI et Agentic AI** dans le cadre du programme Génération IA & IoT Maroc.
+
+Mon objectif est de combiner mon expérience métier, mes connaissances en informatique et les nouvelles technologies pour contribuer à l'automatisation et à l'amélioration des processus.
+
+---
+
+## 🛠️ Compétences & Technologies
+
+**🤖 IA & Automatisation**
+- Agentic AI
+- Automation AI
+- AI Agent Orchestration
+- Prompt Engineering
+- LangGraph (en apprentissage)
+- Vibe Coding & AI-assisted Development
+
+**💻 Développement informatique**
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+**⚙️ Outils**
+- Fusion AI
+- Streamlit
+- ClickUp
+- Microsoft Office
+
+**🛡️ Compétences métier**
+- Gestion des dossiers d'assurance
+- Traitement et contrôle des données
+- Facturation et suivi administratif
+- Coordination des processus métier
+
+---
+
+## 🌱 Actuellement
+
+- Spécialisation en Automation AI & Agentic AI – Génération IA & IoT Maroc.
+- Exploration de LangGraph pour concevoir et orchestrer des agents IA.
+- Découverte du Vibe Coding et du développement assisté par l'IA.
+- Développement de projets pratiques autour de l'intelligence artificielle et de l'automatisation.
+
+---
+
+## 🚀 Projets
+
+**✈️ TripWise AI – AI Travel Planner**
+
+Projet de planification de voyages assisté par l'intelligence artificielle, développé avec Python, Streamlit et LangGraph.
+
+- Génération de programmes de voyage personnalisés.
+- Architecture basée sur un workflow multi-agents.
+- Planification et vérification du budget.
+- Tests automatisés avec Pytest.
+
+*Repository : en cours de préparation.*
+
+---
+
+## 🎓 Formation & Certifications
+
+- FAI Orchestration Certification – Fusion AI Academy (09/2026).
+- Spécialisation Automation AI & Agentic AI – Génération IA & IoT Maroc.
+- Licence fondamentale en sciences de gestion – FSJES Aïn Chock (2019–2022).
+- Formation qualifiante en développement d'applications web – OFPPT (2019–2020).
+- Technicien spécialisé en développement informatique – OFPPT (2017–2019).
+- Vibe Coding Course (11/2026).
+
+---
+
+## 🌍 Langues
+
+- Arabe : langue maternelle
+- Français
+- Anglais : niveau intermédiaire
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : [hibaraqbi146@gmail.com](mailto:hibaraqbi146@gmail.com)
+- 💼 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/)
+
+---
+
+⭐ Merci de visiter mon profil GitHub !
